@@ -1,0 +1,12 @@
+.profile-image2 {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border-radius: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: auto;
+    margin-top: 10px;
+}
